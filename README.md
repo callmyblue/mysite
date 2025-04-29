@@ -1,10 +1,9 @@
 # mysite
 wilkommen auf meiner website. Hier steckt einiges an Arbeit drinnen ;)
-Willkommen auf meiner Webseite!
-Home
-Über mich 17 jahre Schüler
-Kontakt 
-Startseite
+
+
+Kontakt: Bei anliegen gerne anschreiben.
+
 Dies ist die Startseite meiner ersten Website.
 
 Über mich
